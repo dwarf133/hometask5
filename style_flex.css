@@ -18,7 +18,7 @@ div {
 }
 .round {
   margin-top: 10px;
-  background-color: #6998a3;
+  background-color: #ec11da;
 }
 .mda {
   display: flex;
@@ -32,7 +32,7 @@ div {
     grid-row-gap: 10px;
   }
   .round {
-    background-color: red;
+    background-color: rgb(21, 6, 233);
   }
 }
 @media screen and (min-width: 1001px) {
@@ -43,6 +43,6 @@ div {
     grid-row-gap: 10px;
   }
   .round {
-    background-color: yellow;
+    background-color: rgb(10, 240, 67);
   }
 }
